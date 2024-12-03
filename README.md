@@ -27,7 +27,7 @@ La aplicación proporciona diversas funcionalidades relacionadas con la ingenier
 
 1. Clona el repositorio:
     ```sh
-    git clone https://github.com/tu-usuario/App-Ing_Economica.git
+    git clone https://github.com/foreverlcd/App-Ing_Economica.git
     ```
 2. Abre el proyecto en Visual Studio.
 3. Restaura los paquetes NuGet necesarios.
